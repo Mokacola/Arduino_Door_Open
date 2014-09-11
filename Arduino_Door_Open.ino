@@ -2,6 +2,8 @@
  int LDR = 0;
  int LED = 4;
  
+ //CONNOR
+ 
  // variables
  int base;
  int threshold = 40;
